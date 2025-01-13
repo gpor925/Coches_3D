@@ -141,8 +141,8 @@ Material:
     - _WorkflowMode: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.11320752, g: 0.036845844, b: 0.036845844, a: 1}
-    - _Color: {r: 0.1132075, g: 0.036845844, b: 0.036845844, a: 1}
+    - _BaseColor: {r: 0.01886791, g: 0.0047169775, b: 0.0047169775, a: 1}
+    - _Color: {r: 0.01886791, g: 0.0047169775, b: 0.0047169775, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColorUI: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColorWithMapUI: {r: 0, g: 0, b: 0, a: 1}
